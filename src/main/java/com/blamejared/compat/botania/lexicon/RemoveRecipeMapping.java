@@ -31,7 +31,7 @@ public class RemoveRecipeMapping implements IAction {
         this.entry = data.entry;
         this.page = data.page;
         LexiconRecipeMappings.remove(stack);
-        CraftTweakerAPI.getLogger().logInfo("Removing Lexicon Recipe Lookup: " + stack.getUnlocalizedName());
+        CraftTweakerAPI.getLogger().logInfo("Removing Lexicon Recipe Lookup: " + stack.getTranslationKey());
     }
     
     @Override

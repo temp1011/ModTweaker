@@ -1,1 +1,1 @@
-This folder is to hold ModTweaker test scrips for ease of making sure everything works properly.
+This folder is to hold ModTweaker test scripts for ease of making sure everything works properly.
